@@ -1,0 +1,6 @@
+cat > requirements.txt << 'EOF'
+requests>=2.31.0
+colorama>=0.4.6
+tqdm>=4.66.0
+python-dotenv>=1.0.0
+EOF
